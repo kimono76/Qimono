@@ -14,6 +14,7 @@ use brown / red keycaps in keyboard
 
 
 ------
+
 (the time shift was tet to 1 hour per week)
 skip one session for the amount of hours spent in last week
 remember to silent the group during NY visit
@@ -22,8 +23,14 @@ reemeber to unmute the group afterwards
 feedback about pair programming and error troubleshooting
 overall feddback of previus meetings
 AMA (ask me anithyng)
+
 (is there a question from previus session?)
+
 do you feel confortable with  pair troubleshooting
+
+*PREFIERE TRABAJAR EN GRUPO 
+(como aprendiendo a nadar)
+
 do you feel confortable with pair doc reading
 
 talk about the workflow: every user story will be fully developed by one person FROM uml diagram and unit test unit test TO ci/cd
