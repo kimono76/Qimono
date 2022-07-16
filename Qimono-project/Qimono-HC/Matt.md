@@ -71,3 +71,10 @@ this is the version 1.0 of pwd
 make a better stack diagram from the draft
 
 # pixelart for Qimono 
+
+-------------
+Flowcharts
+Draw.io
+
+Docker
+.dockerfile 
