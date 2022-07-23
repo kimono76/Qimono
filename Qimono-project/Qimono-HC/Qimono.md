@@ -37,3 +37,11 @@
 1. setup account for github (user and email)
 
 # business logic weekly challenge
+
+# Technical Shape of the App
+
+Database : Code First
+Testing : TDD
+
+Mobile-friendly
+Mobile-First 

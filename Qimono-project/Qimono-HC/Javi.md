@@ -8,3 +8,6 @@ club de emprendedores Rosario
 
 Draw phone sketch for phone screen
 
+Bootstrap
+
+Gestion de las organizaciones 
