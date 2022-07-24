@@ -25,3 +25,9 @@ Git : PR coder team aproval
 Git trunk 
 
 Architecture : Poligonal Design
+
+Workflow : zero burocracy
+Workflow : AGILE
+Workflow : SCUM
+workflow : SaFe
+Workflow : Spotify model 
