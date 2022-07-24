@@ -85,3 +85,5 @@ Como termino eso? Cual es el resultado? (responde a THEN)
 make the call via zoom to use the 40 minutes limit
 
 add agustin user to mongo db
+
+the "nice" word about frontend
