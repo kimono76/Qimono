@@ -31,3 +31,10 @@ Workflow : AGILE
 Workflow : SCUM
 workflow : SaFe
 Workflow : Spotify model 
+
+Low Code
+No code
+
+CQRS pattern
+
+SOLID priciples
