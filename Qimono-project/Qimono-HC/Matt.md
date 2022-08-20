@@ -78,3 +78,43 @@ Draw.io
 
 Docker
 .dockerfile 
+
+----
+matias.md
+packet tracer 8.2
+
+NAS 
+diagrama de la tipologia del proyecto 
+
+Hp probook
+
+
+herramienta
+honeypost 
+seguridad en redes 
+agregado al desarrollo
+requiere monitoreo
+cobertura para ataques 
+(pentest)
+nivel alto de seguridad
+
+licencia GPL 
+
+antivirus
+$800 Hp  
+McAfi Security 
+
+mayor de edad
+clave afip nivel 2
+cuit
+vincular servicio INPI
+confeccionar caratula 
+Estatuto 
+imagenes 
+elementos
+documentacion 
+pagar arancel 
+
+licencia BSD 
+
+----

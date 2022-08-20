@@ -51,3 +51,38 @@ Raspberripy manual
 https://realselfexperience.com/
 
 https://realselfexperience.com/
+
+--- 
+
+bela.md
+pythonn 
+pruebas unitarias
+
+acceso areply
+instalacion spyder
+
+# inteligencia artificial
+teoria 
+
+leyes basicas de la IA
+cuestiones eticas y culturales
+
+supervisado 
+no supervisado
+
+riesgos de un proyecto para no supervisado
+
+ejemplo ajedrez
+
+aprendizaje automatico
+lenguajes mas comunes 
+
+
+python
+    accesibilidad , facilidad 
+
+Alto
+    Agrario 
+    
+--- 
+

@@ -28,3 +28,24 @@ pair programming cucumber
 
 undo pattern in logic
 double linked list
+
+----
+
+Cesar.md
+
+Analisis 
+    analisis funcional
+    relevamiento
+
+    challenges de alchemy
+
+    UML con historia de usuario
+
+Historia de uauario
+diagrmas secuenciales
+diagrmas estado
+drama cases
+
+# Extension de visual studio code - low code
+
+----
